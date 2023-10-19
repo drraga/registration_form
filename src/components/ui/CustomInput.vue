@@ -90,7 +90,7 @@ const generateUniqueId = computed(() => Math.random().toString(35).substring(8, 
     border: $input-border;
 
     &:focus {
-      border-color: $input-border-focus;
+      border: $input-border-focus;
     }
 
   }
