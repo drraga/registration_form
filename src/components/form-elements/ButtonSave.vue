@@ -57,7 +57,7 @@ async function saveData() {
     padding: 10px 24px;
 
     &:hover{
-      background-color: $input-main-color;
+      background-color: $hover-color;
     }
   }
 }
